@@ -3,7 +3,11 @@ body {
   background-color: #FF6A00;
 }
 
-text {
+h1 {
+  color: #FFFFFF;
+}
+
+p {
   color: #FFFFFF;
 }
 
